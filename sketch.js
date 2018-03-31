@@ -1,3 +1,5 @@
+// ndfhkxj,vfkj
+
 var canon;
 var aliens = [];
 var bullets = [];
