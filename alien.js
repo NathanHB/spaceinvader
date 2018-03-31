@@ -29,6 +29,6 @@ class Alien {
         aliens.splice(i, 1)
     }
 
-
+ // let's see what it does
 
 }
